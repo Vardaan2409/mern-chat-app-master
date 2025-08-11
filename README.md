@@ -1,5 +1,7 @@
 # MERN Stack Project: A Real Time Chat App | JWT, Socket.io
 
+https://mern-chat-app-mu-one.vercel.app
+
 Some Features:
 
 -   🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
